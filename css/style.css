@@ -1541,6 +1541,7 @@ input:focus, select:focus, textarea:focus, .form-control:focus {
   transition: 0.3s;
   outline: none;
 }
+
 .swiper-dark-pagination .swiper-pagination-bullet:before {
   content: "";
   width: 30px;
